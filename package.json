@@ -1,0 +1,19 @@
+{
+  "name": "react-cars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/neilhalligan/react-cars.git"
+  },
+  "author": "neil halligan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neilhalligan/react-cars/issues"
+  },
+  "homepage": "https://github.com/neilhalligan/react-cars#readme"
+}
